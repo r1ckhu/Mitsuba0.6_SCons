@@ -3,6 +3,9 @@ Mitsuba — Physically Based Renderer
 
 http://mitsuba-renderer.org/
 
+## Build Guide for Windows
+[Build Guide](WindowsBuildGuide.md)
+
 ## About
 
 Mitsuba is a research-oriented rendering system in the style of PBRT, from which it derives much inspiration. It is written in portable C++, implements unbiased as well as biased techniques, and contains heavy optimizations targeted towards current CPU architectures. Mitsuba is extremely modular: it consists of a small set of core libraries and over 100 different plugins that implement functionality ranging from materials and light sources to complete rendering algorithms.
