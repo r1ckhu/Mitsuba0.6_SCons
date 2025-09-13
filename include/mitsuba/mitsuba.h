@@ -34,7 +34,7 @@
 #include <string.h>
 #include <stdexcept>
 #include <limits>
-
+#include <functional>
 using std::cout;
 using std::cerr;
 using std::endl;
